@@ -1,34 +1,32 @@
 body
 {
-     font-size:14px;
-     font-weight:bold;
-     font-family:courier,monospace;
-     color:#000
-     text-align: justified;
+     font-family:courier, monospace;
+     text-align: center;
      background-color: teal;
   
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-right: 350px;
-    margin-left: 350px;
+     margin-top: 50px;
+     margin-bottom: 50px;
+     margin-right: 350px;
+     margin-left: 350px;
 }
 
-#penguin2 
+text
+#penguin
 {
    position:relative;
 }
 
-#tiger2  
+#tiger
 {
     position:relative;
 }
 
-#polar_bear2  
+#polar_bear
 {
     position:absolute;
 }
 
-#snake2  
+#snake 
 {
     position:absolute;
 }
