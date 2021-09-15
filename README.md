@@ -1,6 +1,5 @@
 # Zoo website
  Webdev assignment 1
 
-This is my zoo assignment.
-Currently have no index and 0/4 animals
-Just testing things
+<h1>This is my zoo assignment.</h1>
+Link: https://guyotdavid.github.io/Zoo-website/
