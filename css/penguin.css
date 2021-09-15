@@ -4,4 +4,12 @@ body
      text-align: justified;
      background-color: yellow;
 }
+
+img 
+{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 30%;
+}
   
